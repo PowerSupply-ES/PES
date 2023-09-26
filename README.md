@@ -4,7 +4,7 @@ We make Powersupply's Education System
 
 ## Team
 
-- 박경민, 곽준현, 최성임, 조광현
+- 박경민, 곽준현, 최성임
 
 ## 🔥GOAL (3달 프로젝트)
 
